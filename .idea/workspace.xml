@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8fbb3cf3-ed01-4f01-90ba-6b55bb066bdc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/json_20230227_javadoc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YouTubeTrender.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/youtube/trender/WordIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/youtube/trender/YouTubeDataParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/youtube/trender/YouTubeDataParserException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/youtube/trender/YouTubeTrenderPhase1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/youtube/trender/YouTubeTrenderPhase2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/youtube/trender/YouTubeTrenderPhase3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/youtube/trender/YouTubeVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/youtubedata_15_50.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2nO3oLFjgcENJQShLeAjsh4zsCq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.YouTubeTrenderPhase1.executor": "Run",
+    "Application.YouTubeTrenderPhase2.executor": "Run",
+    "Application.YouTubeTrenderPhase3.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Administrator/Documents/java'",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propCompiler"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Documents\java'\YouTubeTrender\src" />
+      <recent name="C:\Users\Administrator\Documents\java'\YouTubeTrender\main" />
+      <recent name="C:\Users\Administrator\Documents\java'\YouTubeTrender" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Documents\java'\YouTubeTrender\src" />
+      <recent name="C:\Users\Administrator\Documents\java'\YouTubeTrender\src\main" />
+      <recent name="C:\Users\Administrator\Documents\java'\YouTubeTrender\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.YouTubeTrenderPhase3">
+    <configuration name="YouTubeTrenderPhase1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.youtube.trender.YouTubeTrenderPhase1" />
+      <module name="YouTubeTrender" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.youtube.trender.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YouTubeTrenderPhase2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.youtube.trender.YouTubeTrenderPhase2" />
+      <module name="YouTubeTrender" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.youtube.trender.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YouTubeTrenderPhase3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.youtube.trender.YouTubeTrenderPhase3" />
+      <module name="YouTubeTrender" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.youtube.trender.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.YouTubeTrenderPhase3" />
+        <item itemvalue="Application.YouTubeTrenderPhase2" />
+        <item itemvalue="Application.YouTubeTrenderPhase1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fbb3cf3-ed01-4f01-90ba-6b55bb066bdc" name="Changes" comment="" />
+      <created>1728830469958</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728830469958</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/YouTubeTrender$YouTubeTrenderPhase1.ic" NAME="YouTubeTrenderPhase1 Coverage Results" MODIFIED="1728889747844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.youtube.trender.*</FILTER>
+    </SUITE>
+  </component>
+</project>

@@ -1,0 +1,158 @@
+{
+  "videos": [
+    {
+      "channel": "Tech Channel",
+      "datePosted": "2024-01-15",
+      "title": "How to Learn Java",
+      "description": "A comprehensive guide to learning Java programming.",
+      "viewCount": 15000
+    },
+    {
+      "channel": "Science Channel",
+      "datePosted": "2024-02-20",
+      "title": "Space Exploration 101",
+      "description": "An introduction to space exploration and its importance.",
+      "viewCount": 32000
+    },
+    {
+      "channel": "Cooking Show",
+      "datePosted": "2024-03-01",
+      "title": "10 Quick and Easy Dinner Recipes",
+      "description": "Learn how to make delicious dinners in under 30 minutes.",
+      "viewCount": 25000
+    },
+    {
+      "channel": "Fitness Guru",
+      "datePosted": "2024-03-05",
+      "title": "30-Minute Full Body Workout",
+      "description": "Get fit with this quick full-body workout routine.",
+      "viewCount": 18000
+    },
+    {
+      "channel": "Travel Vlog",
+      "datePosted": "2024-03-10",
+      "title": "Exploring the Wonders of Japan",
+      "description": "Join us on an adventure through Japan's beautiful landscapes.",
+      "viewCount": 22000
+    },
+    {
+      "channel": "Music Channel",
+      "datePosted": "2024-03-12",
+      "title": "Top 10 Songs of 2024",
+      "description": "A countdown of the most popular songs of the year.",
+      "viewCount": 32000
+    },
+    {
+      "channel": "Gaming Hub",
+      "datePosted": "2024-03-15",
+      "title": "Ultimate Guide to Fortnite",
+      "description": "Tips and tricks to dominate in Fortnite.",
+      "viewCount": 40000
+    },
+    {
+      "channel": "Beauty Guru",
+      "datePosted": "2024-03-18",
+      "title": "Spring Makeup Tutorial",
+      "description": "Learn how to create a fresh spring look.",
+      "viewCount": 15000
+    },
+    {
+      "channel": "Home Improvement",
+      "datePosted": "2024-03-20",
+      "title": "DIY Home Renovation Tips",
+      "description": "Transform your home with these simple renovation tips.",
+      "viewCount": 21000
+    },
+    {
+      "channel": "Health Channel",
+      "datePosted": "2024-03-25",
+      "title": "Understanding Mental Health",
+      "description": "A deep dive into mental health awareness.",
+      "viewCount": 29000
+    },
+    {
+      "channel": "History Channel",
+      "datePosted": "2024-04-01",
+      "title": "The History of Ancient Rome",
+      "description": "Explore the fascinating history of Ancient Rome.",
+      "viewCount": 15000
+    },
+    {
+      "channel": "Documentary Channel",
+      "datePosted": "2024-04-05",
+      "title": "The Secrets of the Ocean",
+      "description": "Discover the mysteries of the deep sea.",
+      "viewCount": 28000
+    },
+    {
+      "channel": "Art Channel",
+      "datePosted": "2024-04-10",
+      "title": "Painting with Watercolors",
+      "description": "A beginner's guide to watercolor painting techniques.",
+      "viewCount": 19000
+    },
+    {
+      "channel": "Tech Reviews",
+      "datePosted": "2024-04-15",
+      "title": "Top 5 Smartphones of 2024",
+      "description": "An in-depth review of this year's best smartphones.",
+      "viewCount": 35000
+    },
+    {
+      "channel": "Nature Channel",
+      "datePosted": "2024-04-20",
+      "title": "Wildlife Photography Tips",
+      "description": "Learn how to capture stunning wildlife photos.",
+      "viewCount": 24000
+    },
+    {
+      "channel": "Motivational Speaker",
+      "datePosted": "2024-04-25",
+      "title": "Finding Your Purpose in Life",
+      "description": "A motivational talk to help you discover your true calling.",
+      "viewCount": 22000
+    },
+    {
+      "channel": "Educational Channel",
+      "datePosted": "2024-05-01",
+      "title": "Physics Explained: Quantum Mechanics",
+      "description": "A simple explanation of quantum mechanics for beginners.",
+      "viewCount": 16000
+    },
+    {
+      "channel": "Finance Channel",
+      "datePosted": "2024-05-05",
+      "title": "Investing for Beginners",
+      "description": "Learn the basics of investing your money wisely.",
+      "viewCount": 30000
+    },
+    {
+      "channel": "Pet Care",
+      "datePosted": "2024-05-10",
+      "title": "How to Train Your Dog",
+      "description": "Effective techniques for training your pet.",
+      "viewCount": 15000
+    },
+    {
+      "channel": "Fashion Channel",
+      "datePosted": "2024-05-15",
+      "title": "Spring Fashion Trends 2024",
+      "description": "Explore the latest trends in spring fashion.",
+      "viewCount": 27000
+    },
+    {
+      "channel": "Personal Development",
+      "datePosted": "2024-05-20",
+      "title": "Time Management Skills",
+      "description": "Tips to help you manage your time effectively.",
+      "viewCount": 23000
+    },
+    {
+      "channel": "Gaming Reviews",
+      "datePosted": "2024-05-25",
+      "title": "Best Indie Games of 2024",
+      "description": "A review of the top indie games you should try.",
+      "viewCount": 38000
+    }
+  ]
+}
